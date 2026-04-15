@@ -48,6 +48,9 @@ A Java-based application that helps users calculate and analyze their household 
 * Add charts and graphs
 * Mobile app version
 
+<img width="882" height="590" alt="image" src="https://github.com/user-attachments/assets/bbc121f2-0906-4354-b987-d9edd372ca6a" />
+
+
 ---
 
 👨‍💻 Developed as a Java OOP project for energy analysis and sustainability awareness.
