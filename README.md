@@ -34,13 +34,6 @@ A Java-based application that helps users calculate and analyze their household 
 2. Run `Main.java`
 3. Start adding appliances and analyzing energy usage
 
-## 📁 Project Structure
-
-* `model` → Core data classes
-* `service` → Business logic
-* `util` → File handling
-* `app` → Main GUI application
-
 ## 💡 Future Improvements
 
 * Add database support
